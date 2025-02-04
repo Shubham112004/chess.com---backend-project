@@ -1,0 +1,27 @@
+{
+  "name": "chess---backend-project",
+  "version": "1.0.0",
+  "description": "A chess.com clone project (made with node.js, express.js, socket.io, chess.js) - showcasing my backend skills.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chess",
+    "projest",
+    "backend",
+    "project",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Shubham Gaikwad",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^1.0.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
